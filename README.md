@@ -12,6 +12,6 @@
 
 # Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/105125628?s=400&u=b591b9bf9e54f90b114d64db966477d0cf3fe283&v=4" width=115><br><sub>Matheus Soares Ascenso</sub>](https://github.com/Borracha1510) |
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/105125628?s=400&u=b591b9bf9e54f90b114d64db966477d0cf3fe283&v=4" width=115><br><sub>Matheus Soares Ascenso</sub>](https://github.com/Borracha1510)
 
 | :---: | :---: | :---: |
